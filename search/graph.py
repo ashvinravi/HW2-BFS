@@ -1,7 +1,6 @@
 #import queue_obj
 from search import queue_obj
 import networkx as nx
-import matplotlib.pyplot as plt
 
 class Graph:
     """
